@@ -3,3 +3,6 @@ This repository comprises a compilation of my solutions and experiments in machi
 
 ## Kaggle
 [Simpsons classification](https://www.kaggle.com/competitions/journey-springfield), [simpsons.ipynb](simpsons.ipynb) (DLS assignment)
+
+## MIPT ML course
+[Wine dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html), [wine.ipynb](wine.ipynb)
