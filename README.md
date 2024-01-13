@@ -6,6 +6,7 @@ This repository comprises a compilation of my solutions and experiments in machi
 
 ## MIPT ML course
 - [Wine dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_wine.html), [wine.ipynb](wine.ipynb)
+- [Regression task with a raw dataset](https://www.kaggle.com/competitions/fall-ml2-mipt-2023/overview), [raw_dataset_regression.ipynb](raw_dataset_regression.ipynb)
 
 ## Deep Learning School
 - [PH2 Dataset images](https://www.fc.up.pt/addi/ph2%20database.html), [ph2_semantic_segmentation.ipynb](ph2_semantic_segmentation.ipynb)
